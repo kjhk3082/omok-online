@@ -3,6 +3,7 @@
 ### 사용 설명
 
 33 가능한 오목
+오목 설명 link https://en.wikipedia.org/wiki/Gomoku
 
 ### 개선해야할 점
 
