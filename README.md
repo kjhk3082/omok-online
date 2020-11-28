@@ -1,5 +1,5 @@
 # 오목
-![image](https://user-images.githubusercontent.com/39435764/100513960-5d0dec80-31b4-11eb-9ebe-a619dc20635d.png)
+![image](https://user-images.githubusercontent.com/39435764/100514020-b9710c00-31b4-11eb-8c90-b6dff29b0e6c.png)
 ### 오목 설명
 
 33 가능한 오목, 시간 제한, 무르기 없는 오목
