@@ -1,5 +1,5 @@
 # 오목
-
+![image](https://user-images.githubusercontent.com/39435764/100513960-5d0dec80-31b4-11eb-9ebe-a619dc20635d.png)
 ### 사용 설명
 
 33 가능한 오목
