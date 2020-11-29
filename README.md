@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/39435764/100514020-b9710c00-31b4-11eb-8c90-b6dff29b0e6c.png)
 
 * 프로젝트 설명  
-  *33 가능한 오목, 시간 제한, 무르기 없는 오목
-  *오목 설명 link https://en.wikipedia.org/wiki/Gomoku
+  * 33 가능한 오목, 시간 제한, 무르기 없는 오목
+  * 오목 설명 link https://en.wikipedia.org/wiki/Gomoku
  
  
 
