@@ -26,3 +26,4 @@
 
 ###### 참조 link https://github.com/leekeunhwan
 
+[소전발표PPT_최종.pdf](https://github.com/kjhk3082/omok-online/files/5611835/PPT_.pdf)
