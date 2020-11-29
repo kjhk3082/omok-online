@@ -3,7 +3,6 @@
 
 * 프로젝트 설명  
 33 가능한 오목, 시간 제한, 무르기 없는 오목
-
 오목 설명 link https://en.wikipedia.org/wiki/Gomoku
  
  
